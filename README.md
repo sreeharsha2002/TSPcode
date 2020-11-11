@@ -20,7 +20,7 @@ the output u will get is the minimun cost of the optimal path and path will be p
 And I hard coded the edge weights between each nodes. and I have matrix for that in code.
 The matrix is 
 ```C
-            1       2       3       4       5      6      7       8       9       10      11
+            1         2         3         4         5       6       7         8         9         10        11
             
         1	  INF	  29	  20	  21	  16	  31	 100	  12	   4	  31	  18	
         2	    29	INF	  15	  29	  28	  40	  72	  21	  29	  41	  12	
