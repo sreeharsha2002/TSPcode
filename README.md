@@ -38,6 +38,6 @@
 * INF is the maximum number in int
 * Actual we should give 0 for (1,1) but as here we are computing minimum we should not have a self loop so we take it as INF.
 * The actual graph is this:
-![Getting Started](./graphwithindex1.jpg)
+![Getting Started](./graphwithindex1.png)
 * After running the code the optimal path graph is this:
 ![Getting Started](./graphpath.png)
